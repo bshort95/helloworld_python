@@ -18,7 +18,7 @@ this program uses Python's print function to display the text "hello world"
 
 the formost use of this application is to print "helloworld" to the terminal any other use that is discovered by using it is a pleasent suprise
 
-![screenshot of terminal](provew1.jpg)
+![screenshot of terminal](https://github.com/bshort95/helloworld_python/blob/master/provew1.JPG?raw=true)
 
 ####Useful websites
 
