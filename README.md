@@ -22,8 +22,8 @@ the formost use of this application is to print "helloworld" to the terminal any
 
 ####Useful websites
 
-[Github](www.github.com)
-[Git](https://git-scm.com/)
-[visual studios code](https://code.visualstudio.com/)
-[Python](https://www.python.org/)
-[video tutorial](https://video.byui.edu/media/0_v2afnpby)
+[Github](www.github.com)  
+[Git](https://git-scm.com/)  
+[visual studios code](https://code.visualstudio.com/)  
+[Python](https://www.python.org/)  
+[video tutorial](https://video.byui.edu/media/0_v2afnpby)  
