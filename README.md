@@ -1,10 +1,10 @@
-###Hello_World in Python
+### Hello_World in Python
 
-####Program Description
+#### Program Description
 
 this program uses Python's print function to display the text "hello world"
 
-####Development Method
+#### Development Method
 
 1. first thing that I did was install the necessary software, including **python, git** and **visual studio code**
 2. after they were all intalled and set up I made a new folder which I put on my desktop to find easily.
@@ -14,13 +14,13 @@ this program uses Python's print function to display the text "hello world"
 6. I used share button found on the toolbar on the leftmost side to send to my github account directly
 7. I basked in enjoyment as I added my first program to a repository
 
-####Uses
+#### Uses
 
 the formost use of this application is to print "helloworld" to the terminal any other use that is discovered by using it is a pleasent suprise
 
 ![screenshot of terminal](https://github.com/bshort95/helloworld_python/blob/master/provew1.JPG?raw=true)
 
-####Useful websites
+#### Useful websites
 
 [Github](www.github.com)  
 [Git](https://git-scm.com/)  
